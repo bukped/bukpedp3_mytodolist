@@ -10,11 +10,11 @@ Selamat datang dalam perjalanan menuju produktivitas tanpa batas dengan buku ini
 
 ![Dirga](https://raw.githubusercontent.com/mytodolist1/bukpedp3_mytodolist/main/foto/dirga.jpg)
 
-**Penulis 1:** Perkenalkan nama saya Dirga Febrian, lahir di Kota Bukittinggi pada tanggal 20 Februari 2003. Saya menempuh pendidikan tingkat dasar di SDN 10 PAUH Kabupaten Pasaman, tingkat Menengah di MTsN 1 PASAMAN Kabupaten Pasaman, selanjutnya bersekolah di MAN 1 PASAMAN Kabupaten Pasaman. Saat ini melanjutkan pendidikan di Universitas Logistik dan Bisnis (ULBI) Bandung pada program studi D4 Teknik Informatika.
+**Penulis 1:** Perkenalkan nama saya Dirga Febrian, lahir di Kota Bukittinggi pada tanggal 20 Februari 2003. Saya menempuh Pendidikan tingkat dasar di SDN 10 PAUH Kabupaten Pasaman, tingkat Menengah di MTsN 1 PASAMAN Kabupaten Pasaman, selanjutnya bersekolah di MAN 1 PASAMAN Kabupaten Pasaman. Saat ini melanjutkan pendidikan di Universitas Logistik dan Bisnis (ULBI) Bandung pada program studi D4 Teknik Informatika.
 
 ![Naufal](https://raw.githubusercontent.com/mytodolist1/bukpedp3_mytodolist/main/foto/naufal.jpg)
 
-**Penulis 2:** 
+**Penulis 2:** Perkenalkan nama saya Naufal Dekha Widana, lahir di Kota Bandung pada tanggal 02 Maret 2003. Saya menempuh Pendidikan tingkat dasar hingga Atas di Cipatat. Saat ini melanjutkan pendidikan di Universitas Logistik dan Bisnis (ULBI) Bandung pada program studi D4 Teknik Informatika.
 
 
 
