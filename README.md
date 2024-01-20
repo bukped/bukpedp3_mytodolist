@@ -16,6 +16,6 @@ Selamat datang dalam perjalanan menuju produktivitas tanpa batas dengan buku ini
 
 **Penulis 2:** Perkenalkan nama saya Naufal Dekha Widana, lahir di Kota Bandung pada tanggal 02 Maret 2003. Saya menempuh Pendidikan tingkat dasar hingga Atas di Cipatat. Saat ini melanjutkan pendidikan di Universitas Logistik dan Bisnis (ULBI) Bandung pada program studi D4 Teknik Informatika.
 
+![Pak Yusril](https://raw.githubusercontent.com/mytodolist1/bukpedp3_mytodolist/main/foto/pakyusril.png)
 
-
-
+**Penulis 3:** M. Yusril Helmi Setyawan, S.Kom., M.Kom., SFPC, adalah seorang profesional di bidang teknologi informasi dengan gelar Sarjana Komputer (S.Kom.) dari STMIK Tasikmalaya dalam bidang Teknik Informatika dan kemudian melanjutkan di STMIK LIKMI Bandung, di mana beliau meraih gelar Magister Komputer (M.Kom.) dengan fokus pada Sistem Informasi.  Dengan pangkat Penata/III-C, M. Yusril Helmi Setyawan, S.Kom., M.Kom., SFPC, menjabat sebagai seorang Lektor di institusi pendidikan tinggi. Beliau memperoleh beberapa sertifikasi lisensi internasional yang menunjukkan kompetensinya di berbagai bidang. Antara lain, MTA AI-900, SFPC, dan CCNA. Tidak hanya aktif dalam dunia akademis, Beliau juga terlibat sebagai Asessor BNSP LSP Politeknik Pos Indonesia, menunjukkan kepercayaan dalam mengukur kompetensi dan kualifikasi sumber daya manusia.
